@@ -1,3 +1,10 @@
+.bash_history
+.config/
+.gitconfig
+.ssh/
+.cache/
+.storage/
+auto-deploy.sh
+nexora-lab/
 *.bak
 *.log
-.storage
